@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpncrypt",
+        "uuid": 229400,
+        "checksum": "4gog1p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
